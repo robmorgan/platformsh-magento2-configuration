@@ -1,5 +1,5 @@
 {
-  "name": "platformsh/magento2-configuration",
+  "name": "robmorgan/magento2-configuration",
   "description": "Provides configuration to deploy a Magento 2 project on Platform.sh",
   "license": "MIT",
   "authors": [
@@ -8,9 +8,12 @@
     },
     {
       "name": "wojtek"
+    },
+    {
+      "name": "Rob Morgan"
     }
   ],
   "require": {
-    "php": ">=5.6.0"
+    "php": ">=7.0.0"
   }
 }
